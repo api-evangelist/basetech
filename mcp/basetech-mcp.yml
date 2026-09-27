@@ -1,0 +1,8 @@
+generated: '2026-09-27'
+method: probed
+source: https://www.basetech.xyz/_api/mcp
+deployment:
+  mode: remote
+  endpoint: https://www.basetech.xyz/_api/mcp
+  auth: none
+  verified: probed
